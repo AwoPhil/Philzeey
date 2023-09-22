@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Philzeey
+- 👋 Hi, I’m @Awo_Phil
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning PHP,Mechanical Engineering at Obafemi Awolowo University,Ile-Ife.
 - 💞️ I’m looking to collaborate on website with payment integration system
